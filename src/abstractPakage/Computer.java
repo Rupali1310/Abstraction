@@ -23,6 +23,9 @@ package abstractPakage;
 
 		}
 
-	
+		public static void headphone()
+		{
+			System.out.println("heaphone is static method in abstract class ");
+		}
 	
 	}
